@@ -1,6 +1,6 @@
-PATH_TO_CHROMEDRIVER = '/home/bendel/Downloads/chromedriver'
+PATH_TO_CHROMEDRIVER = '/home/user/Downloads/chromedriver'
 LOGIN_INFO = [('LIBRARYCARD1','PIN1'),('LIBRARYCARD2','PIN2')]
-PATH_FOR_SCREENSHOTS = '/home/bendel/Pictures'
+PATH_FOR_SCREENSHOTS = '/home/user/Pictures'
 TIME_FACTOR = 1
 
 from selenium import webdriver
